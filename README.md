@@ -1,1 +1,1 @@
-# word-counter-Samvel_Petrosyan
+# word-counter-Samvel-Petrosyan
